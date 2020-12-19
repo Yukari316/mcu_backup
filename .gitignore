@@ -1,0 +1,6 @@
+*.uvgui.*
+*.uvopt
+*/Listings
+*/Objects
+STC8/USER/Objects/
+STC8/USER/Listings/
